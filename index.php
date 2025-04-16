@@ -10,6 +10,10 @@
 <body>
     <h1>Hello Word</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci dolore impedit earum consectetur aut inventore quam dicta perspiciatis laudantium. Quia adipisci modi voluptatibus nobis ipsam voluptatem amet sequi ex consectetur!</p>
+    <ul>
+        <li>dsadas</li>
+        <li>dsfdgdf</li>
+    </ul>
 </body>
 
 </html>
